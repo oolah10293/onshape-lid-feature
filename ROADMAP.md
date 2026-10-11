@@ -1,5 +1,11 @@
 # Roadmap
 
+## Validation status
+
+- CAD generation validated on the simple rectangular test enclosure.
+- **First physical print validated successfully:** the generated lid fit its enclosure perfectly on the first try.
+- The next major validation target is the original, more complex enclosure that motivated the project.
+
 ## Next validation milestone
 
 ### Test on the original real-world enclosure
