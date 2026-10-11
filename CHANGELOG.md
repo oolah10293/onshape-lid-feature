@@ -1,6 +1,7 @@
 # Changelog
 
 ## V0.4
+- **Physical print validation passed:** the first generated lid was printed and fit the enclosure perfectly on the first try.
 - Added screw-size selector for M2, M2.5, M3, and M4.
 - Added lid clearance holes.
 - Added 90° countersinks.
